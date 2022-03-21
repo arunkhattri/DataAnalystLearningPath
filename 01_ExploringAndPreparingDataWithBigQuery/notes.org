@@ -1,0 +1,19 @@
+#+TITLE: Exploring & Preparing your data with BigQuery
+#+author: Arun Kr. Khattri
+
+* Courses Videos
+** Welcome
++ [[https://www.youtube.com/watch?v=xxrS7iMbLbk][Course series introduction]]
+** Introduction to Data on Google Cloud
++ [[https://www.youtube.com/watch?v=z6gtJ43AdNg][Introduction to Data on Google Cloud]]
++ [[https://www.youtube.com/watch?v=H_qdBE1aYq8][Big data on-premises versus in the cloud]]
++ [[https://www.youtube.com/watch?v=UA08QATdL_o][Real world use cases]]
++ [[https://www.youtube.com/watch?v=KBGNEjNimhE][Google Cloud project basics]]
+** Big Data Tools Overview
++ [[https://www.youtube.com/watch?v=lj6QEdph4cE][Data analyst tasks and challenges and Google Cloud data tools]]
++ [[https://www.youtube.com/watch?v=E0p1B5YhU5g][9 fundamental BigQuery features]]
++ [[https://www.youtube.com/watch?v=Fg8n1fX4U2E][Walkthrough: Data architecture diagram]]
++ [[https://www.youtube.com/watch?v=gPCEvvt5sZ0][Google Cloud tools for analysts, data scientists and data engineers]]
+** Exploring your data with SQL
++ [[https://www.youtube.com/watch?v=mAqol8cfjlk][Introduction to the Google Analytics ecommerce dataset]]
++ [[https://www.youtube.com/watch?v=v2PmcNhpdsI][Common data exploration techniques]]
